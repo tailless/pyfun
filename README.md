@@ -1,6 +1,8 @@
 # pyfun
 Machine Learning Course Project
 
+# IMDB gross earnings prediction
+
 
 ## Preprocessing Features :
 
