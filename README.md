@@ -6,10 +6,12 @@ Machine Learning Course Project
 
 ## Preprocessing Features :
 
-- Budget 
+- Budget : Liv
 - Rating : Liv
 - Language : Liv
+
 - Actor - name analysis : Emma
+
 - Genre : Lisa
 - Director : experience : Lisa
 
