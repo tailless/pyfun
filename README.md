@@ -2,7 +2,7 @@
 Machine Learning Course Project
 
 
-##Preprocessing Features :#####
+## Preprocessing Features :
 
 - Budget 
 - Rating : Liv
@@ -13,4 +13,4 @@ Machine Learning Course Project
 
 
 Other tasks : 
-- What classifiers to ues : Emma
+- What classifiers to uses : Emma
