@@ -17,4 +17,4 @@ Machine Learning Course Project
 
 
 ## Other tasks : 
-- What classifiers to uses : Emma
+- Explore which classifiers to uses : Emma
