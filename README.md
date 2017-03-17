@@ -12,5 +12,5 @@ Machine Learning Course Project
 - Director : experience : Lisa
 
 
-Other tasks : 
+## Other tasks : 
 - What classifiers to uses : Emma
