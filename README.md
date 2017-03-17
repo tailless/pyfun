@@ -2,15 +2,15 @@
 Machine Learning Course Project
 
 
-Preprocessing Features :#####
+##Preprocessing Features :#####
 
-#Budget 
-#Rating : Liv
-#Language : Liv
-#Actor - name analysis : Emma
-#Genre : Lisa
-#Director : experience : Lisa
+- Budget 
+- Rating : Liv
+- Language : Liv
+- Actor - name analysis : Emma
+- Genre : Lisa
+- Director : experience : Lisa
 
 
 Other tasks : 
-#What classifiers to ues : Emma
+- What classifiers to ues : Emma
