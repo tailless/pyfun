@@ -8,9 +8,9 @@ Machine Learning Course Project
 
 - Budget : Liv
 - Rating : Liv
-- Language : Liv
+- ~~Language : Liv~~
 
-- Actor - name analysis : Emma
+- ~~Actor - name analysis : Emma~~
 
 - Genre : Lisa
 - Director : experience : Lisa
