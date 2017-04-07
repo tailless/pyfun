@@ -18,3 +18,7 @@ Machine Learning Course Project
 
 ## Other tasks : 
 - Explore which classifiers to uses : Emma
+
+Stack overflow on normalisation in pandas@
+http://stackoverflow.com/questions/12525722/normalize-data-in-pandas
+
